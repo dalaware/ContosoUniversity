@@ -46,3 +46,8 @@ c:\users\enes\documents\visual studio 2015\Projects\ContosoUniversity\ContosoUni
 c:\users\enes\documents\visual studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
 c:\users\enes\documents\visual studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
 c:\users\enes\documents\visual studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\Enes\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\Enes\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\Enes\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\Enes\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+C:\Users\Enes\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
